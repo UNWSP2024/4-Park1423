@@ -1,0 +1,13 @@
+##
+# Code by Parker Jolly
+# On 9/25/2025
+# Program name: Bank Balence Pseudocode
+##
+
+#Get monthy budget.
+
+#Enter a loop and get monthly expenses until 0 is entered.
+
+#Subtract total expenses from our budget.
+
+#Print results.
